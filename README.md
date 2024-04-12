@@ -4,9 +4,9 @@ This application serves as an example of microservices implemented in Node.js. I
 ### Usage
 1. Clone this repository.
 2. Navigate to the user-service folder.
-3. Run npm install to install dependencies.
-4. Create new DB with npx sequelize-cli db:create. Make sure sequelize-cli installed globally in your machine.
-5. Start the service using npm start.
+3. Run `npm install` to install dependencies.
+4. Create new DB with `npx sequelize-cli db:create`. Make sure sequelize-cli installed globally in your machine.
+5. Start the service using `npm start`.
 6. Repeat steps 2-4 for additional microservices as needed.
 7. Interact with the microservices using the exposed APIs.
 
